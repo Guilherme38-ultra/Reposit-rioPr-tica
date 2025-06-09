@@ -1,0 +1,76 @@
+body {
+    background-color: #00d084;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    color: black;
+    text-decoration: underline;
+    display: block;
+    margin-top: 10px;
+  }
+
+  .container {
+    background: white;
+    width: 300px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 30px;
+    border: 3px solid #6c63ff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
+
+  .atualmente {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+
+  .city {
+    font-size: 20px;
+    color: #333;
+  }
+
+  .tempo_agora {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+
+  .card {
+    background-color: #4285f4;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+  }
+
+  .card h4 {
+    margin: 0;
+    font-size: 16px;
+  }
+
+  .card p {
+    margin: 5px 0 0;
+    font-size: 14px;
+  }
+
+  .button {
+    margin-top: 15px;
+  }
+
+  .button button {
+    background-color: #00a84f;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  .icon {
+    font-size: 20px;
+  }
